@@ -6,3 +6,24 @@ I've created a series of blog posts on hive.blog to help people learn Python and
 https://hive.blog/coding/@run.vince.run/5-reasons-you-should-be-programming-with-python
 
 
+
+Installing Python On Your System
+https://hive.blog/hive-163521/@run.vince.run/installing-python-on-your-system
+
+
+https://hive.blog/hive-163521/@run.vince.run/running-your-python-code
+
+
+https://hive.blog/hive-163521/@run.vince.run/manipulating-text-files-and-strings-in-beginner-python
+
+
+
+https://hive.blog/hive-163521/@run.vince.run/variables-and-numeric-data-types-in-python
+
+
+
+https://hive.blog/hive-163521/@run.vince.run/user-input-and-lists-in-python
+
+
+https://hive.blog/hive-163521/@run.vince.run/working-with-loops-in-python
+
