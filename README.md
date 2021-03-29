@@ -22,3 +22,5 @@ https://hive.blog/hive-163521/@run.vince.run/user-input-and-lists-in-python
 ## Article 7 - Working With Loops In Python
 https://hive.blog/hive-163521/@run.vince.run/working-with-loops-in-python
 
+## Article 8 - Working With If Statements In Python
+https://hive.blog/hive-163521/@run.vince.run/working-with-if-statements-in-python
