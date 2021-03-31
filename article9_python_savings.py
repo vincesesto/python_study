@@ -13,7 +13,7 @@ def check_savings():
 
 def add_savings(amount):
   f = open("savings.txt","a")
-  f.write("\n{}".format(savings))
+  f.write("\n{}".format(amount))
   f.close()
   check_savings()
 
