@@ -24,3 +24,7 @@ https://hive.blog/hive-163521/@run.vince.run/working-with-loops-in-python
 
 ## Article 8 - Working With If Statements In Python
 https://hive.blog/hive-163521/@run.vince.run/working-with-if-statements-in-python
+
+## Article 9 - Working With Functions In Python
+https://hive.blog/hive-163521/@run.vince.run/working-with-function-in-python
+
