@@ -30,3 +30,9 @@ https://hive.blog/hive-163521/@run.vince.run/working-with-function-in-python
 
 ## Article 10 - Working With Python Modules
 https://hive.blog/hive-163521/@run.vince.run/working-with-python-modules
+
+## Article 11 - Working With Tuple Datatypes In Python
+https://hive.blog/hive-163521/@run.vince.run/tuples-datatypes-in-python
+
+## Article 12 - Using Dictionary Datatypes In Python
+https://hive.blog/hive-163521/@run.vince.run/using-dictionary-datatypes-in-python
