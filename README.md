@@ -36,3 +36,10 @@ https://hive.blog/hive-163521/@run.vince.run/tuples-datatypes-in-python
 
 ## Article 12 - Using Dictionary Datatypes In Python
 https://hive.blog/hive-163521/@run.vince.run/using-dictionary-datatypes-in-python
+
+## Article 13 - Introduction To Flask Web Development
+https://hive.blog/hive-163521/@run.vince.run/introduction-to-flask-web-development
+
+## Article 14 - Web Development Using Flask Part 2
+https://hive.blog/hive-163521/@run.vince.run/web-development-using-flask-part-2
+
