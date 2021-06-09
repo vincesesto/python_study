@@ -43,3 +43,6 @@ https://hive.blog/hive-163521/@run.vince.run/introduction-to-flask-web-developme
 ## Article 14 - Web Development Using Flask Part 2
 https://hive.blog/hive-163521/@run.vince.run/web-development-using-flask-part-2
 
+## Article 14 - Web Development Using Flask Part 3
+https://hive.blog/hive-163521/@run.vince.run/web-development-using-flask-part-3
+
