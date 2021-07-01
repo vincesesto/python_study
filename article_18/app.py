@@ -1,3 +1,13 @@
+from flask import Flask
+from logging.handlers import RotatingFileHandler
+import logging
+from flask.logging import default_handler
+
+app = Flask(__name__)
+
+# TEMPORARY - Set the secret key to a temporary value!
+app.secret_key = 'BAD_SECRET_KEY'
+
 app = Flask(__name__)
 
 # Import the blueprints
