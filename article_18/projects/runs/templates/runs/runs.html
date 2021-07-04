@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="stocks-container">
+  <div class="stocks-list">
+    <h1>List of Runs</h1>
+
+    <table>
+    <!-- Table Header Row -->
+    <thead>
+      <tr>
+        <th>Type Of Run</th>
+        <th>Number of Kilometres</th>
+        <th>Comments</th>
+      </tr>
+    </thead>
+
+    <!-- Table Element (Row) -->
+    <tbody>
+      <td>{{ session['type_of_run'] }}</td>
+      <td>{{ session['number_of_kilometres'] }}</td>
+      <td>{{ session['comments'] }}</td>
+    </tbody>
+  </table>
+</div>
+{% endblock %}
