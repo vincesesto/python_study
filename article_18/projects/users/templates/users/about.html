@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>About</h1>
+<br>
+{% if version %}
+  <h2>This is version {{ version }} of the Flasking App.</h2>
+{% else %}
+  <h2>System Error!</h2>
+{% endif %}
+{% endblock %}
