@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="form-wrap">
+  <h1>Add a Run</h1>
+  <form method="post">
+    <div class="field">
+      <label for="typeOfRun">Type of Run(Easy|Long|Interval|Etc):</label>
+      <input type="text" id="typeOfRun" name="type_of_run" />
+    </div>
+    <div class="field">
+      <label for="numberOfKilometres">Number of Kilometres:</label>
+      <input type="text" id="numberOfKilometres" name="number_of_kilometres" />
+    </div>
+    <div class="field">
+      <label for="comments">Comments:</label>
+      <input type="text" id="comments" name="comments" />
+    </div>
+    <div class="field">
+      <button type="submit">Submit</button>
+    </div>
+  </form>
+</div>
+
+{% endblock %}
