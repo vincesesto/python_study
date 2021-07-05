@@ -52,4 +52,5 @@ https://hive.blog/hive-163521/@run.vince.run/testing-your-flask-web-application-
 ## Article 17 - Adding Static Files To Your Flask Project - Part 5
 https://hive.blog/hive-163521/@run.vince.run/adding-static-files-to-your-flask-project-part-5
 
-
+## Article 18 - Python Web Development With Flask - Part 6
+https://hive.blog/hive-163521/@run.vince.run/python-web-development-with-flask-part-6
