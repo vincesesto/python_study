@@ -1,15 +1,12 @@
-from flask import Flask
+from flask import Flask, render_template, request, session, redirect, url_for
 
 app = Flask(__name__)
 
-# TEMPORARY - Set the secret key to a temporary value!
-app.secret_key = 'BAD_SECRET_KEY'
-
-app = Flask(__name__)
+app.secret_key = '\x98)\x861hX[\xf1\xc5Z\xd5SSe@\xe7[K\xfe\xb5\xc7~\xb0\x99\x1e\x8f\xfem\xa6F\xc1&'
 
 # Import the blueprints
-from project.runs import runs_blueprint
-from project.users import users_blueprint
+from projects.runs import runs_blueprint
+from projects.users import users_blueprint
 
 # Register the blueprints
 app.register_blueprint(runs_blueprint)
