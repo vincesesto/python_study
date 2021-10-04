@@ -1,6 +1,15 @@
 # Article 19 Code
 
-![Panoramic Trekking App Photo Viewer Page](/python_study/article_19/FirstDash.PNG)
+## Installing Dash
+```
+pip3 install dash
+```
 
+## Running the App
+```
+python app.py
+```
 
-![Load The Page](FIrstDash.PNG)
+## Page in the Browser
+
+![http://127.0.0.1:8050/](FIrstDash.PNG)
