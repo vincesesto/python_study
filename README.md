@@ -54,3 +54,6 @@ https://hive.blog/hive-163521/@run.vince.run/adding-static-files-to-your-flask-p
 
 ## Article 18 - Python Web Development With Flask - Part 6
 https://hive.blog/hive-163521/@run.vince.run/python-web-development-with-flask-part-6
+
+## Article 19 - Python Web Development With Dash
+https://hive.blog/hive-163521/@run.vince.run/python-web-development-using-dash
